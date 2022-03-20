@@ -1,0 +1,6 @@
+spring:
+  profiles:
+
+# test : 개발용
+# local : 개발용
+# prod : 운영용 property
