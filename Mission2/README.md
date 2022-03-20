@@ -2,7 +2,7 @@
 
 ## 2차 미션 스크린샷  
 ### Basic
-  - 사진
+  - 사진  
   **게시판(Board)**
   - boardCreate
   ![m2_boardCreate](https://user-images.githubusercontent.com/57223501/158058004-d4c385ca-2441-47ae-a346-ce596ccebaee.JPG)
